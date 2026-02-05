@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Agne 👋
+
+I'm a front-end developer with a deep interest in UX/UI. I love turning real world problems into accessible, user-centered, simple solution.
+
+Featured projects and live demos can be found in my portfolio. If you have questions, feel free to message me, I'm happy to chat! 😊
+
+Link to portfolio 👇
+
+[https://agne-portfolio.web.app/projects](https://agne-portfolio.web.app/projects)
 
 <!--
 **AgnePK/AgnePK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
